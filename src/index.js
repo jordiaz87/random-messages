@@ -1,5 +1,7 @@
 const messages = [
     "oscar",
+    "Carolina",
+    "Paulina",
     "Ana",
     "Nicolay",
     "Yesica",
